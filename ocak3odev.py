@@ -1,6 +1,6 @@
 sayi = int(input("sayi giriniz:"))
 
-for a in range(0, sayi+1):
+for a in range(1, sayi+1):
     print(a)
 
 sayi = int(input("sayi giriniz:"))
